@@ -1,0 +1,13 @@
+/* bring in normalize.css styles */
+@import-normalize;
+@import "./pages/Login/Login";
+@import 'https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700;900&display=swap';
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Raleway, 'Roboto Condensed',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
